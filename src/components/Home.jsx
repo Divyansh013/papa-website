@@ -11,7 +11,7 @@ const Home = () => {
             sx={{ borderRadius: "50%", width: 400, height: 400 }}
           >
             <img
-              src="src/assets/dp.jpg"
+              src="https://content.jdmagicbox.com/comp/faizabad/b4/pwfl1524149059s2i8b4/catalogue/krishna-mohan-srivastava-faizabad-nn0nt.jpg"
               alt="dp"
               style={{ borderRadius: "50%", width: "100%", height: "100%" }}
             />
